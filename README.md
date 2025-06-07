@@ -6,6 +6,8 @@ The Chinese Ancient Rubbing and Manuscript Character Dataset (ARMCD) is a new au
 
 ![image-20231217175911655](figure/concept.png)
 
+## Download
+
 ## Comparison With Other Datasets
 
 Existing Chinese character datasets, such as HCL2000,  SCUT-COUCH2009, HWDB, CASIA-AHCDB, and ACCID, exhibit substantial differences from Chinese ancient characters in terms of spatial distribution and local details. Many current methods for the ACACR task are trained on these datasets with common masks in image inpainting, such as rectangular block masks.The remaining ACACR methods are consistently hindered by insufficient paired data and nonprofessional masks. 
@@ -143,3 +145,6 @@ In addition, the following table shows the Statistics of the number of images co
 | *The Rubbing Album of Stele of Songgaoling Temple in Zhongyue Mountain* | 100  |
 |        *The Rubbing Album of Stele of Xuanmi Pagoda*         |  30  |
 
+We also displayed the distribution of the collected Chinese characters across different dynasties.
+
+![image-20231217180955577](figure/dynasty.png)
